@@ -24,6 +24,7 @@ library(janitor)
 ```
 ## A. Armed Forces – Data Wrangling
 ```{r}
+#| label: armed-forces-wrangle
 #| message: false
 #| warning: false
 
