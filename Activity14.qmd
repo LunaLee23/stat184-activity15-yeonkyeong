@@ -1,11 +1,15 @@
 ---
 title: "Activity 14 – First QMD File"
 author: "Yeonkyeong Lee (Luna)"
-date: "2025-11-17"
+date: "2025-11-21"
 format: 
   pdf: 
-    toc: false
-    geometry: "margin=1in"
+    toc: true
+    number-sections: true
+execute:
+    echo: false
+    warning: false
+    message: false
 ---
 
 
