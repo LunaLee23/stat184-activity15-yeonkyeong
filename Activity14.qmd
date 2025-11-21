@@ -19,6 +19,8 @@ execute:
 #| message: false 
 #| warning: false
 
+# Coding style: Tidyverse Style Guide 
+
 library(tidyverse) 
 library(janitor)
 ```
